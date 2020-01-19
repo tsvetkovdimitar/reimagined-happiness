@@ -27,14 +27,14 @@ Route::get('/', function () {
 //
 //    $data = [
 //
-//        'title'=>'Hi Edwin, I like the course',
-//        'content'=>'Thank you for making this course for us. It really helps me learn PHP Laravel'
+//        'title'=>'',
+//        'content'=>''
 //
 //    ];
 //
 //    Mail::send('emails.test', $data, function($message){
 //
-//        $message->to('dantsvetkova@gmail.com', 'Daniela')->subject('Hi Daniela, how are you?');
+//        $message->to('', '')->subject('');
 //
 //    });
 //
